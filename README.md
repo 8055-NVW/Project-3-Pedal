@@ -1,5 +1,5 @@
 # project-3
-GA Project 3 - Group Fullstack Application
+GA Project 3 - Group Fullstack Applicatio
 
 
 Viv
